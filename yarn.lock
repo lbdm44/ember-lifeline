@@ -1415,7 +1415,7 @@ broccoli-uglify-sourcemap@^2.1.1:
     walk-sync "^0.3.2"
     workerpool "^2.3.0"
 
-browserslist@^2.1.2, browserslist@^2.2.2:
+browserslist@^2.1.2:
   version "2.11.3"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-2.11.3.tgz#fe36167aed1bbcde4827ebfe71347a2cc70b99b2"
   dependencies:
@@ -2772,14 +2772,6 @@ ember-try@^0.2.15:
     rimraf "^2.3.2"
     rsvp "^3.0.17"
     semver "^5.1.0"
-
-ember-weakmap@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/ember-weakmap/-/ember-weakmap-3.1.1.tgz#2ae6e0080b5b80cf0d108f7752dc69ea9603dbd7"
-  dependencies:
-    browserslist "^2.2.2"
-    debug "^3.1.0"
-    ember-cli-babel "^6.3.0"
 
 encodeurl@~1.0.1:
   version "1.0.1"
